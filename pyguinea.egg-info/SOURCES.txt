@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+./pyguinea/__init__.py
+./pyguinea/test.py
+pyguinea.egg-info/PKG-INFO
+pyguinea.egg-info/SOURCES.txt
+pyguinea.egg-info/dependency_links.txt
+pyguinea.egg-info/requires.txt
+pyguinea.egg-info/top_level.txt
